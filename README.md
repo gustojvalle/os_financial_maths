@@ -6,13 +6,13 @@ It's an open source course based on the curriculum for the oxford university MSc
 
 ## Term 1
 
-Stochastic Calculus
-Overview:
+- Stochastic Calculus
+-- Overview:
 Stochastic calculus is a branch of mathematics that deals with processes that have a random component. It's widely used in financial mathematics for modeling the random behavior of asset prices and interest rates.
 
-Core Topics:
+-- Core Topics:
 
-Introduction to Stochastic Processes
+### Introduction to Stochastic Processes
 
 Random walks, Brownian motion, and Markov processes.
 Conditional expectations and martingales.
